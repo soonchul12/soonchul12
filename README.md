@@ -13,22 +13,15 @@
 
 <div align="center">
 
-**웹 개발을 공부하는 학생 개발자** ��  
+**웹 개발을 공부하는 학생 개발자** 
 새로운 기술을 배우고 창의적인 웹사이트를 만드는 것을 좋아합니다.
 
-[�� 포트폴리오](http://soonchul.dothome.co.kr/) | [�� 이메일](mailto:soonchul12@gmail.com) | [�� 인스타그램](https://www.instagram.com/soonchul12)
+ [�� 이메일](mailto:soonchul12@gmail.com) | [�� 인스타그램](https://www.instagram.com/soonchul12)
 
 </div>
 
 ---
 
-## 🎯 현재 진행 중인 프로젝트
-
-<div align="center">
-
-[![eBusinessCard](https://img.shields.io/badge/🪪_eBusinessCard-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/soonchul12/eBusinessCard)
-
-온라인 명함 웹사이트 - 자기소개, 포트폴리오, 연락처를 한눈에!
 
 </div>
 
