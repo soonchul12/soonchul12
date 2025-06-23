@@ -16,7 +16,7 @@
 **웹 개발을 공부하는 학생 개발자** 
 새로운 기술을 배우고 창의적인 웹사이트를 만드는 것을 좋아합니다.
 
- [�� 이메일](mailto:soonchul12@gmail.com) | [�� 인스타그램](https://www.instagram.com/soonchul12)
+ [이메일](mailto:yeyiyeyi@naver.com) | [인스타그램](https://www.instagram.com/soonchul12)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 </div>
 
-## ��️ 기술 스택
+## 기술 스택
 
 <div align="center">
 
@@ -72,15 +72,6 @@
 
 </div>
 
-## 🌟 주요 프로젝트
-
-<div align="center">
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---------|------|-----------|
-| 🪪 [eBusinessCard](https://github.com/soonchul12/eBusinessCard) | 온라인 명함 웹사이트 | HTML, CSS, JavaScript, PHP |
-| �� [포트폴리오 앱](https://github.com/soonchul12) | React 기반 포트폴리오 | React, Node.js, MongoDB |
-| ✅ [할일 관리 앱](https://github.com/soonchul12) | JavaScript 기반 할일 관리 | JavaScript, LocalStorage |
 
 </div>
 
