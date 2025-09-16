@@ -13,8 +13,6 @@
 
 <div align="center">
 
-**웹 개발을 공부하는 학생 개발자** 
-새로운 기술을 배우고 창의적인 웹사이트를 만드는 것을 좋아합니다.
 
  [이메일]yeyiyeyi@naver.com | [인스타그램](https://www.instagram.com/soonchul12)
 
