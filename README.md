@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F75C7E&height=190&section=header&text=%EA%B6%8C%EC%88%9C%EC%B2%A0%20%C2%B7%20Soonchul%20Kwon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Building%20OwnerView&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F75C7E&height=190&section=header&text=%EA%B6%8C%EC%88%9C%EC%B2%A0%20%C2%B7%20Soonchul%20Kwon&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%EC%9B%B9+%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%98%A4%EB%84%88%EB%B7%B0+%C2%B7+%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85+%EA%B2%BD%EC%98%81+OS+%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;TypeScript+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+PostgreSQL;%EB%A7%A4%EC%9D%BC+%EC%A1%B0%EA%B8%88%EC%94%A9%2C+%EA%BE%B8%EC%A4%80%ED%9E%88&font=Noto+Sans+KR&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=560&height=48&duration=3500)](https://github.com/soonchul12)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%9B%B9+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B6%8C%EC%88%9C%EC%B2%A0%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%98%A4%EB%84%88%EB%B7%B0%EB%9D%BC%EB%8A%94+%EA%B2%BD%EC%98%81+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94;TypeScript%2C+Next.js%2C+Supabase+%EC%94%81%EB%8B%88%EB%8B%A4&font=Noto+Sans+KR&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=560&height=48&duration=3500)](https://github.com/soonchul12)
 
 [![Email](https://img.shields.io/badge/yeyiyeyi%40naver.com-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeyiyeyi@naver.com)
 [![Instagram](https://img.shields.io/badge/@soonchul12-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soonchul12)
@@ -13,7 +13,7 @@
 
 <br/>
 
-## 🚀 지금 만들고 있는 것
+## 🚀 지금 하는 일
 
 <div align="center">
 
@@ -21,15 +21,15 @@
 <tr>
 <td width="60%" valign="top">
 
-### 오너뷰 (OwnerView) — 중소기업 대표를 위한 경영 OS
+### 오너뷰 (OwnerView)
 
-통장·카드·세금계산서·전표·재고·프로젝트·근태·급여·결재·메신저·전자계약까지,
-흩어져 있던 회사 운영을 **한 화면에 모아 자동으로 이어 주는** 서비스입니다.
+회사 운영에 필요한 걸 한 군데 모아 놓은 프로그램입니다.
+통장, 카드, 세금계산서, 전표, 재고, 프로젝트, 근태, 급여, 결재, 메신저, 전자계약 전부요.
 
-- 통장·카드 거래가 매일 자동 수집되고, 국세청 자료가 전표와 신고로 이어집니다
-- 상품 하나가 팔리면 재고·원가·이익이 같이 움직입니다
-- 출퇴근 한 번이 근태·연차·급여명세서로 이어집니다
-- 매일 아침 AI 브리핑이 오늘 챙길 것을 정리합니다
+- 통장이랑 카드 내역은 매일 알아서 들어옵니다
+- 세금계산서는 국세청에서 받아오고, 바로 발행도 됩니다
+- 물건 하나 팔리면 재고랑 이익이 같이 바뀝니다
+- 출퇴근 찍으면 연차랑 급여명세서까지 나옵니다
 
 [![Repo](https://img.shields.io/badge/GitHub-motiveinno--jpg%2Flean--os-181717?style=flat-square&logo=github)](https://github.com/motiveinno-jpg/lean-os)
 [![Site](https://img.shields.io/badge/Live-www.owner--view.com-F75C7E?style=flat-square&logo=vercel&logoColor=white)](https://www.owner-view.com)
@@ -37,17 +37,17 @@
 </td>
 <td width="40%" valign="top">
 
-**만드는 방식**
+**뭘로 만들었나**
 
 | | |
 |---|---|
-| 프론트 | Next.js · React · TypeScript · Tailwind CSS |
-| 데이터 | Supabase · PostgreSQL · Edge Functions |
-| 품질 | Vitest · Playwright · 타입검사 게이트 |
-| 배포 | Vercel · GitHub Actions |
+| 화면 | Next.js, React, TypeScript, Tailwind |
+| 데이터 | Supabase, PostgreSQL |
+| 테스트 | Vitest, Playwright |
+| 배포 | Vercel |
 
-화면 86개, 마이그레이션 680여 개.
-**원인을 고치고, 거짓 UI 를 두지 않고, 실패를 숨기지 않는다** 를 원칙으로 짭니다.
+화면 86개, DB 마이그레이션 680개 정도 쌓였습니다.
+아직 매일 고치는 중이에요.
 
 </td>
 </tr>
@@ -61,11 +61,11 @@
 
 <div align="center">
 
-**주로 쓰는 것**
+**요즘 주로 쓰는 것**
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,supabase,postgres,nodejs,vercel&perline=8)](https://skillicons.dev)
 
-**할 줄 아는 것**
+**써 본 것**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mongodb,git,vscode,figma&perline=9)](https://skillicons.dev)
 
@@ -89,7 +89,7 @@
 
 <br/>
 
-## 🧩 알고리즘
+## 🏆 알고리즘 문제 풀이
 
 <div align="center">
 
@@ -99,15 +99,12 @@
 
 <br/>
 
-## 💬 이런 사람입니다
-
 <div align="center">
 
-> 사용자가 발견하기 전에 먼저 찾아서 고치는 걸 좋아합니다.<br/>
-> 화면 하나를 고치기보다 그 화면들이 같이 쓰는 규칙을 고칩니다.<br/>
-> 프로젝트 협업이나 기술 이야기는 언제든 환영입니다.
+> 💡 **함께 성장하는 개발자가 되고 싶습니다!**
+> **프로젝트 협업이나 기술 공유에 관심이 있으시면 언제든 연락주세요!**
 
-![Visitors](https://komarev.com/ghpvc/?username=soonchul12&style=for-the-badge&color=F75C7E&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=soonchul12&style=for-the-badge&color=F75C7E&label=%EB%B0%A9%EB%AC%B8)
 
 </div>
 
