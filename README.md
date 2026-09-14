@@ -27,9 +27,10 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonchul12&show_icons=true&theme=radical&cache_seconds=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![soonchul12의 GitHub 통계](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soonchul12&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonchul12&layout=compact&theme=radical&hide_border=true)](https://github.com/soonchul12/github-readme-stats)
+[![저장소별 사용 언어](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soonchul12&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![커밋 기준 사용 언어](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soonchul12&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
