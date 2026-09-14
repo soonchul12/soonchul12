@@ -31,7 +31,6 @@
 - 물건 하나 팔리면 재고랑 이익이 같이 바뀝니다
 - 출퇴근 찍으면 연차랑 급여명세서까지 나옵니다
 
-[![Repo](https://img.shields.io/badge/GitHub-motiveinno--jpg%2Flean--os-181717?style=flat-square&logo=github)](https://github.com/motiveinno-jpg/lean-os)
 [![Site](https://img.shields.io/badge/Live-www.owner--view.com-F75C7E?style=flat-square&logo=vercel&logoColor=white)](https://www.owner-view.com)
 
 </td>
