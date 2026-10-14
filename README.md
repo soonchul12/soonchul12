@@ -8,7 +8,7 @@
 
 **주로 쓰는 것**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,postgres,mysql,java,php" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,postgres,mysql,java,php,docker,git" />
 
 **써 본 것**
 
