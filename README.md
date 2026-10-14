@@ -8,10 +8,10 @@
 
 **주로 쓰는 것**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,postgres,mysql,java,php,docker,git" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,mysql,java,git" />
 
 **써 본 것**
 
-<img src="https://skillicons.dev/icons?i=py,c,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,php,docker,py,c,mongodb" />
 
 📫 yeyiyeyi@naver.com
