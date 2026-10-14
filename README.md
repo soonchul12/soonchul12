@@ -1,9 +1,9 @@
-### Hi, I'm Soonchul 👋
+### 안녕하세요, 권순철입니다 👋
 
-Web developer in Seoul.
+서울에서 일하는 웹 개발자입니다.
 
-- Working on a B2B web service with Next.js and Supabase
-- Interested in TypeScript, PostgreSQL, and building things people actually use
-- Solving algorithm problems on [solved.ac](https://solved.ac/yeyi/) now and then
+- 기업용 웹 서비스를 만들고 운영하고 있습니다
+- TypeScript, PostgreSQL, 그리고 사람들이 실제로 쓰는 것을 만드는 일에 관심이 많습니다
+- 틈틈이 [solved.ac](https://solved.ac/yeyi/)에서 알고리즘 문제를 풉니다
 
 📫 yeyiyeyi@naver.com
