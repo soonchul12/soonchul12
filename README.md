@@ -6,4 +6,8 @@
 - TypeScript, PostgreSQL, 그리고 사람들이 실제로 쓰는 것을 만드는 일에 관심이 많습니다
 - 틈틈이 [solved.ac](https://solved.ac/yeyi/)에서 알고리즘 문제를 풉니다
 
+**주로 쓰는 언어**  TypeScript, JavaScript, HTML/CSS, SQL(PostgreSQL), Java
+
+**써 본 언어**  PHP, Python, C
+
 📫 yeyiyeyi@naver.com
